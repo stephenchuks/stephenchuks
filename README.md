@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**stephenchuks/stephenchuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I’m a software engineer and a GCP Certified Cloud Engineer with a passion for creating impactful and innovative solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **What I’m working on:**  
+- Building skills in modern programming languages and frameworks.  
+- Exploring open-source contributions.  
+
+📫 **How to reach me:**  
+- Email: [your.email@example.com](mailto:stephenchuks@my.uopeople.edu)  
+- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/chuks-humphrey-stephen-614907165)
+
+🌟 **Languages & Tools:**  
+- Python, C, Java  
+- Git, VS Code  
+
+Let’s build something amazing together! 🚀
+
+
