@@ -1,12 +1,7 @@
-
 # Hi there👋
 
 Welcome to my GitHub profile!  
 I’m a software engineer and a GCP Certified Cloud Engineer with a passion for creating impactful and innovative solutions.  
-
-🔭 **What I’m working on:**  
-- Building skills in modern programming languages and frameworks.  
-- Exploring open-source contributions.  
 
 📫 **How to reach me:**  
 - Email: [your.email@example.com](mailto:stephenchuks@my.uopeople.edu)  
