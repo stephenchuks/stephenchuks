@@ -36,13 +36,7 @@ I specialize in building secure, scalable, and intelligent systems — combining
 
 ---
 
-## 📈 GitHub Stats
 
-![Chuks Humphrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenchuks&show_icons=true&theme=react)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenchuks&layout=compact&theme=react)
-
----
 
 ## 📫 Reach Me
 
